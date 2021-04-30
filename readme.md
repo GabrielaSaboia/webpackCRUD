@@ -1,5 +1,15 @@
 Webpack CRUD assignment screen shots of postman setup.
 
+<img width="1792" alt="Screen Shot 2021-04-30 at 4 46 23 PM" src="https://user-images.githubusercontent.com/51174438/116758893-14ff2a00-a9df-11eb-9938-7179f78347d5.png">
+
+<img width="1792" alt="Screen Shot 2021-04-30 at 4 50 17 PM" src="https://user-images.githubusercontent.com/51174438/116758924-20eaec00-a9df-11eb-8d8f-a00146a50f74.png">
+
+<img width="1792" alt="Screen Shot 2021-04-30 at 4 52 37 PM" src="https://user-images.githubusercontent.com/51174438/116758939-25afa000-a9df-11eb-8c06-1382e2f57660.png">
+
+<img width="1792" alt="Screen Shot 2021-04-30 at 4 46 34 PM" src="https://user-images.githubusercontent.com/51174438/116758900-1892b100-a9df-11eb-870b-de5b8c11adb8.png">
+
+
+
 Prerequisites:
 Install Node:
 https://nodejs.org/en/download/
